@@ -1,2 +1,3 @@
-# hex-studies
-Market Studies
+# nicypto-studies
+Pine Script Codes to find best signals.
+
